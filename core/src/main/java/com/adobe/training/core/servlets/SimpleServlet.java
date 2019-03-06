@@ -36,7 +36,7 @@ import java.io.IOException;
  * idempotent. For write operations use the {@link SlingAllMethodsServlet}.
  */
 
-/*this is the test*/
+/*this is the test this is for ther test for one*/
 @Component(service=Servlet.class,
            property={
                    Constants.SERVICE_DESCRIPTION + "=Simple Demo Servlet",
