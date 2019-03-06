@@ -35,6 +35,8 @@ import java.io.IOException;
  * {@link SlingSafeMethodsServlet} shall be used for HTTP methods that are
  * idempotent. For write operations use the {@link SlingAllMethodsServlet}.
  */
+
+/*this is the test*/
 @Component(service=Servlet.class,
            property={
                    Constants.SERVICE_DESCRIPTION + "=Simple Demo Servlet",
